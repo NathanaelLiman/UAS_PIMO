@@ -1,0 +1,21 @@
+﻿id,nama,umur,jenis kelamin,role,email,komentar,rating
+1,user1,20,L,user,user1@gmail.com,bagus,5
+2,user2,21,L,user,user2@gmail.com,kurang bagus,3
+3,user3,23,P,user,user3@gmail.com,bagus,5
+4,user4,20,P,user,user4@gmail.com,bagus,5
+5,user5,32,L,user,user5@gmail.com,bagus,5
+6,user6,20,L,user,user6@gmail.com,bagus,5
+7,user7,24,P,user,user7@gmail.com,bagus,5
+8,user8,20,P,user,user8@gmail.com,bagus,5
+9,user9,26,L,user,user9@gmail.com,bagus,5
+10,user10,20,P,user,user10@gmail.com,puas dengan pelayanannya,5
+11,user11,20,P,user,user11@gmail.com,tidak puas,2
+12,user12,20,P,user,user12@gmail.com,expertnya mantap,5
+13,user13,19,L,user,user13@gmail.com,tidak puas,1
+14,user14,20,P,user,user14@gmail.com,expertnya mantap,4
+15,user15,20,P,user,user15@gmail.com,expertnya mantap,5
+16,user16,20,L,user,user16@gmail.com,expertnya mantap,5
+17,user17,28,L,user,user17@gmail.com,puas dengan pelayanannya,5
+18,user18,20,L,user,user18@gmail.com,puas dengan pelayanannya,5
+19,user19,22,P,user,user19@gmail.com,puas dengan pelayanannya,5
+20,user20,20,P,user,user20@gmail.com,puas dengan pelayanannya,5
